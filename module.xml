@@ -2,6 +2,7 @@
 <module>
 	<rawname>dundi</rawname>
 	<name>DUNDi</name>
+	<publisher>Point of Presence Technologies</publisher>
 	<version>1.0rc2</version>
 	<description>Configure dundi settings, mappings, and peers</description>
 	<license>AGPLv3</license>
