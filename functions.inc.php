@@ -439,7 +439,7 @@ class Dundi
     {
         global $db;
         if ($name === "0") {
-            $mappings = array("name"=>"", "context"=>"", "weight"=>"", "dest"=>"", "descr"=>"");
+            $mappings = array("name"=>"", "context"=>"", "weight"=>"", "tech"=>"", "dest"=>"", "descr"=>"");
             foreach (self::$bitflags as $v) {
                 $mappings[$v] = false;
             }
