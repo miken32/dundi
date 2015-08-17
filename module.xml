@@ -1,0 +1,22 @@
+<?xml version="1.0" standalone="yes"?>
+<module>
+	<rawname>dundi</rawname>
+	<name>DUNDi</name>
+	<version>1.0rc2</version>
+	<description>Configure dundi settings, mappings, and peers</description>
+	<license>AGPLv3</license>
+	<category>Settings</category>
+	<menuitems>
+		<dundi>DUNDi Settings</dundi>
+	</menuitems>
+	<depends>
+		<module>core</module>
+		<version>ge2.9</version>
+		<engine>asterisk 1.4</engine>
+	</depends>
+	<location/>
+	<info/>
+	<changelog>
+1.0: Initial release
+	</changelog>
+</module>

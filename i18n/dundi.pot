@@ -1,0 +1,177 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-08-14 12:20-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: dundi/install.php:162
+#, php-format
+msgid "<strong>A file named %s already exists, %s must be manually removed and backed up!</strong>"
+msgstr ""
+
+#: dundi/views/context.php:17
+msgid "A description for the context (not parsed)"
+msgstr ""
+
+#: dundi/views/context.php:60
+msgid "Add"
+msgstr ""
+
+#: dundi/install.php:159
+#, php-format
+msgid "Backing up previous configuration file as %s."
+msgstr ""
+
+#: dundi/uninstall.php:37
+#, php-format
+msgid "Backup file %s does not exist, unable to restore previous configuration."
+msgstr ""
+
+#: dundi/install.php:24 dundi/install.php:47 dundi/install.php:82 dundi/install.php:93 dundi/install.php:105
+#, php-format
+msgid "Can not create table `%s`: %s"
+msgstr ""
+
+#: dundi/install.php:123 dundi/install.php:139 dundi/install.php:155
+#, php-format
+msgid "Can not insert value from [%s] section: %s"
+msgstr ""
+
+#: dundi/uninstall.php:20
+#, php-format
+msgid "Cannot delete table %s: %s"
+msgstr ""
+
+#: dundi/views/context.php:12
+msgid "Context Details"
+msgstr ""
+
+#: dundi/views/context.php:26
+msgid "Context Entries"
+msgstr ""
+
+#: dundi/views/context.php:21
+msgid "Context name"
+msgstr ""
+
+#: dundi/install.php:13
+msgid "Creating database tables..."
+msgstr ""
+
+#: dundi/views/context.php:62
+msgid "Delete"
+msgstr ""
+
+#: dundi/uninstall.php:22
+#, php-format
+msgid "Deleted table %s."
+msgstr ""
+
+#: dundi/views/context.php:17
+msgid "Description"
+msgstr ""
+
+#: dundi/install.php:110
+msgid "Importing existing DUNDi configuration&hellip;"
+msgstr ""
+
+#: dundi/functions.inc.php:253
+#, php-format
+msgid "Invalid POST variable %s with value %s sent in request!"
+msgstr ""
+
+#: dundi/functions.inc.php:247
+msgid "Invalid checkbox value."
+msgstr ""
+
+#: dundi/functions.inc.php:235
+msgid "Invalid data posted."
+msgstr ""
+
+#: dundi/functions.inc.php:161
+msgid "Must be a valid IP address."
+msgstr ""
+
+#: dundi/functions.inc.php:166
+msgid "Must be a valid ToS value."
+msgstr ""
+
+#: dundi/functions.inc.php:155
+msgid "Must be a valid UDP port number."
+msgstr ""
+
+#: dundi/uninstall.php:29
+#, php-format
+msgid "Renaming %s as %s."
+msgstr ""
+
+#: dundi/uninstall.php:32
+#, php-format
+msgid "Restored previous configuration from %s."
+msgstr ""
+
+#: dundi/views/context.php:21
+msgid "The name of the Asterisk context; after creation, this can be included in your DUNDi mapping definition."
+msgstr ""
+
+#: dundi/uninstall.php:34
+#, php-format
+msgid "Unable to restore previous configuration from %s."
+msgstr ""
+
+#: dundi/functions.inc.php:199 dundi/functions.inc.php:203
+msgid "Value must be a number between 0 and 59999 or a dialplan variable or function."
+msgstr ""
+
+#: dundi/functions.inc.php:219
+msgid "Value must be a valid EID or wildcard character."
+msgstr ""
+
+#: dundi/functions.inc.php:171
+msgid "Value must be a valid EID."
+msgstr ""
+
+#: dundi/functions.inc.php:230
+msgid "Value must be a valid model statement."
+msgstr ""
+
+#: dundi/functions.inc.php:224
+msgid "Value must be a valid order statement."
+msgstr ""
+
+#: dundi/functions.inc.php:187
+msgid "Value must be between 0 and 999999, yes, or no."
+msgstr ""
+
+#: dundi/functions.inc.php:176
+msgid "Value must be between 0 and 999999."
+msgstr ""
+
+#: dundi/functions.inc.php:181
+msgid "Value must be between 1 and 120."
+msgstr ""
+
+#: dundi/functions.inc.php:193
+msgid "Value must be no more than 80 characters and be a valid Asterisk extension name."
+msgstr ""
+
+#: dundi/functions.inc.php:208
+msgid "Value too long, must be no more than 8 characters."
+msgstr ""
+
+#: dundi/functions.inc.php:149
+msgid "Value too long, must be no more than 80 characters."
+msgstr ""

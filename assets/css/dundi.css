@@ -1,0 +1,10 @@
+.ui-menu .ui-menu-divider {
+	border: none;
+	border-top: 1px solid #ddd;
+	margin: 5px -2px;
+	color: #ddd;
+}
+table {
+	min-width: 40%;
+	max-width: 80%;
+}
